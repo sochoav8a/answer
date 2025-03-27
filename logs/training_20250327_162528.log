@@ -1,0 +1,4 @@
+2025-03-27 16:25:28,071 - INFO - 🚀 Iniciando entrenamiento en: cuda
+2025-03-27 16:25:28,071 - INFO - 📋 Parámetros: Épocas=100, Batch=1, LR_G=0.0002
+2025-03-27 16:25:29,645 - INFO - ✅ Dataset de validación cargado: 118 muestras
+2025-03-27 16:25:31,091 - INFO - 🏃 Comenzando entrenamiento para 100 épocas
